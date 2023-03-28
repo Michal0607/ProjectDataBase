@@ -1,0 +1,25 @@
+Dokumentacja
+Tematem projektu jest biblioteka
+Etap 1:
+Po konsultacji z EKSPERTEM
+DZIEDZINOWYM zidentyfikowalismy encje dotyczace naszej bazy oraz wskazalismy przykladowe instancje encji.
+Etap 2:
+Następnie zidentyfikowalismy zwiazki wystepujace miedzy encjami,nazwalismy je  oraz okreslilismy ich role.
+Etap 3:
+Wykonalismy diagram ERD w ktorym zamiescilismy nazwy encji, zwiazki miedzy nimi oraz ich liczność.
+Etap 4:
+Po konsultacji z EKSPERTEM DZIEDZINOWYM uzyskaliśmy akceptacje dotychczasowych poczynań oraz otrzymaliśmy niezbędne wskazówki do dalszej pracy.
+
+Etap 5:
+Zwizualiśmy na diagramie liczność związków pomiedzy naszymi encjami oraz utworzylismy tabele pomocnicza.
+Etap 6:
+Po kolejnej konsultacji z ekspertem dziedzinowym uzyskalismy akceptacje dotychczasowych postępów oraz wskazówki do dalszej pracy.
+
+Etap 7:
+Uzupelnilismy tabele pomocnicza o dziedzine
+Etap 8 i 9:
+Po szczegółowej analizie bazy przez EKSPERTA DZIEDZINOWEGO dostalismy akceptacje do możliwości przejścia do kolejnego etapu.
+Etap 10:
+Uzupelnilismy diagram ERD o typ wystepujacych danych
+Etap 11:
+Po akceptacji wcześniej poczynionych kroków, przystąpiliśmy do tworzenia bazy w programie MySQL. Wpierw została stworzona tabela a następnie uzupełniono ją danymi.
